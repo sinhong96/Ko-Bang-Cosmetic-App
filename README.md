@@ -17,6 +17,12 @@ Run the server:
 
     python app.py
 
+## Our Demo App
+
+click this link to run our demo app
+
+[Ko-Bang Cosmetic Demo App](https://kobang-cosmetic.herokuapp.com/)
+
 ## Heroku Deployment
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://kobang-cosmetic.herokuapp.com/)
