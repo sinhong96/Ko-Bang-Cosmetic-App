@@ -19,7 +19,7 @@ Run the server:
 
 ## Our Demo App
 
-click this link to run our demo app
+Click this link to run our demo app
 
 [Ko-Bang Cosmetic Demo App](https://kobang-cosmetic.herokuapp.com/)
 
