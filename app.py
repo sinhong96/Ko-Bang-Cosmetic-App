@@ -35,11 +35,11 @@ def get_prediction(image_bytes):
 	return class_names[prediction]
 
 Cosmetic_recomm = {
-	"Dry skin": "Your skin type is dry! We  would like to recommend you to try our company cosmetic product for dry skin!",
-	"Normal skin": "Your skin is normal! However, We would like to recommend you to try our company cosmetic product for normal skin!",
-	"Oily skin": "Your skin type is oily! We  would like to recommend you to try our company cosmetic product for oily skin!",
-    "Acne skin": "Your skin type is acne skin! We  would like to recommend you to try our company cosmetic product for acne skin!",
-    "Sensitive skin": "Your skin type is sensitive skin! We  would like to recommend you to try our company cosmetic product for sensitive skin!"
+	"Dry skin": "Your skin type is dry! We  would like to recommend you to try our company cosmetic products for dry skin!",
+	"Normal skin": "Your skin is normal! However, We would like to recommend you to try our company cosmetic products for normal skin!",
+	"Oily skin": "Your skin type is oily! We  would like to recommend you to try our company cosmetic products for oily skin!",
+    "Acne skin": "Your skin type is acne skin! We  would like to recommend you to try our company cosmetic products for acne skin!",
+    "Sensitive skin": "Your skin type is sensitive skin! We  would like to recommend you to try our company cosmetic products for sensitive skin!"
 }
 
 # Treat the web process
@@ -59,4 +59,4 @@ def upload_file():
 
 if __name__ == '__main__':
 	port = int(os.environ.get("PORT", 5000))
-	app.run(debug=True,host='0.0.0.0',port=port) # app.run(debug=True) 
+	app.run(debug=True,host='0.0.0.0',port=port)  # app.run(debug=True) # app.run(debug=True,host='0.0.0.0',port=port) # app.run(debug=True) 
