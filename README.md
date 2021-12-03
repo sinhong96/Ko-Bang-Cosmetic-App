@@ -21,11 +21,11 @@ Run the server:
 
 Click this link to run our demo app
 
-[Ko-Bang Cosmetic Demo App](https://kobang-cosmetic.herokuapp.com/)
+[Ko-Bang Cosmetic Demo App](https://kobang-cosmetic1.herokuapp.com/)
 
 ## Heroku Deployment
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://kobang-cosmetic.herokuapp.com/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://kobang-cosmetic1.herokuapp.com/)
 
 ## License
 
