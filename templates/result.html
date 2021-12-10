@@ -1,9 +1,9 @@
 {% extends "layout.html" %}
 {% block content %}
-	<form class="form-signin" method=post enctype=multipart/form-data>
+	<form class="form-signin" method=post enctype=multipart/form-data> 
 		{% if name == "Normal skin"%}
 			<h1 class="h1 mb-3 font-weight-normal"> Your skin type is <b>{{ name }}</b>!</h1>
-            <h3 class="h5 mb-3 font-weight-normal"> <b>{{ description }}</b> <p>&#128512; &#128512; &#128512; </p> </h3> 
+			<h3 class="h5 mb-3 font-weight-normal"> <b>{{ description }}</b> <p>&#128512; &#128512; &#128512; </p> </h3> 
 			<img id="currentPhoto2" class="rounded mx-auto d-block" src="/static/img/all_product.jpg" alt="" width="320">			
 			<h3 class="h5 mb-3 font-weight-normal"> <b>Our product</b> </h3>
 		{% elif name == "Dry skin"%}
@@ -43,7 +43,7 @@
 			<img id="currentPhoto2" class="rounded mx-auto d-block" src="/static/img/eye_cream.PNG" alt="" width="320">
 			<h3 class="h5 mb-3 font-weight-normal"> <b>Design Peony Eye Cream (Whittening)</b></h3>
 		{% endif %}
-        <p class="mt-5 mb-3 text-muted">For more info, visit our website, <br> <a href="http://nextcosmetic.net/">Next Co., Ltd</a></p>
+		<p class="mt-5 mb-3 text-muted">For more info, visit our website, <br> <a href="http://nextcosmetic.net/">Next Co., Ltd</a></p>
 	</form>
 
 	<!-- Github Ribbon Start-->
