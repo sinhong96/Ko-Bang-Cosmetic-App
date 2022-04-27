@@ -37,6 +37,13 @@ Screen 3: Preview uploaded image             |  Screen 4: Retrieve prediction of
 
 ## Training Dataset 
 - The data is collected by web-crawling and has 5 face skin types, and the total number of images in this dataset is 1000 images.
+- Face types 
+* Dry Skin
+* Normal Skin
+* Oily Skin
+* Pimples 
+* Sensitve Skin
+
 ![dataset](https://github.com/sinhong96/Ko-Bang-Cosmetic-App/blob/main/app_screen/dataset.png?raw=true )
 
 ## Flow of the Deplopyment of App to Heroku through Docker
