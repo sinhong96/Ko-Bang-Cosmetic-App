@@ -17,7 +17,7 @@ Run the server:
 
     python app.py
 
-## Our Demo App
+## Demo App
 
 Click this link to run our demo app
 
