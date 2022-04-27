@@ -35,6 +35,14 @@ Screen 3: Preview uploaded image             |  Screen 4: Retrieve prediction of
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://kobang-cosmetic1.herokuapp.com/)
 
+## Dataset 
+- the data is collected by web-crawling and has 5 face skin types, and the total number of images in this dataset is 1000 images.
+<img src="https://github.com/sinhong96/Ko-Bang-Cosmetic-App/blob/main/app_screen/dataset.png" width="400" height="400">
+
+## App Deploy Flow 
+- The flow of how Ko-Bang-Cosmetic-App is deployed is as shown in the figure below. 
+<img src="https://github.com/sinhong96/Ko-Bang-Cosmetic-App/blob/main/app_screen/app_deploy.png" width="400" height="400">
+
 ## License
 
 Please check 'LICENSE' for more details.
