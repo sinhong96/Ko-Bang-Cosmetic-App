@@ -27,7 +27,7 @@ Click this link to run our demo app
 Screen 1: Homepage             |  Screen 2: Take photo with camera or choose image from gallery              
 :-------------------------:|:-------------------------:
 <img src="https://github.com/sinhong96/Ko-Bang-Cosmetic-App/blob/main/app_screen/S1.jpg" width="250" height="500">   |   <img src="https://github.com/sinhong96/Ko-Bang-Cosmetic-App/blob/main/app_screen/S2.jpg" width="250" height="500">   
-Screen 3: preview uploaded image             |  Screen 4: Retrieve prediction of food and corresponding nutrient content                  
+Screen 3: Preview uploaded image             |  Screen 4: Retrieve prediction of food and corresponding nutrient content                  
 <img src="https://github.com/sinhong96/Ko-Bang-Cosmetic-App/blob/main/app_screen/S3.jpg" width="250" height="500"> | <img src="https://github.com/sinhong96/Ko-Bang-Cosmetic-App/blob/main/app_screen/S4.jpg" width="250" height="500">                  
  
 
